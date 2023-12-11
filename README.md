@@ -32,6 +32,6 @@ Es mi primer proyecto hecho con un equipo donde tuve que ser el lider, integrado
 
 ## Tecnologías Aprendidas hasta el momento 📕
 - 📫 HTML
-- 🖌 CSS 
+- 🖌 CSS (básico) 
 - 🐍 Python
 - 💼 JSON
