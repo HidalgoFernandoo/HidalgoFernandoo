@@ -30,7 +30,7 @@ Es mi primer proyecto hecho con un equipo donde tuve que ser el lider, integrado
 - Utilizar la librería OS para obtener el directorio actual
 - Ordenamiento de noticias para mostrar la más reciente primero
 
-## Tecnologías Aprendidas hasta el momento 🤓📕
+## Tecnologías Aprendidas hasta el momento 📕
 - 📫 HTML
 - 🖌 CSS 
 - 🐍 Python
